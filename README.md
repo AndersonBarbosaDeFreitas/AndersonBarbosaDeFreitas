@@ -5,8 +5,8 @@
 <h4>- 📘 I've studied Python, Java, C # (Unity), Javascript, Typescript, Angular and Flutter.</h4>
 <h4>- 😄 Pronouns: He/His.</h4>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AndersonBarbosaDeFreitas&&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonBarbosaDeFreitas&layout=compact&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AndersonBarbosaDeFreitas&&show_icons=true&theme=dark&hide=issues&count_private=true&include_all_commits=true&line_height=24.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonBarbosaDeFreitas&layout=compact&theme=dark&langs_count=10)
 
 <h2>How to reach me</h2>
 
