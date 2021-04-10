@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center"> Hello World! 👋 <h1>
+  
+<h4>- 🔭 I am currently working as at Phoebus through the AYTY project.</h4>
+<h4>- 🌱 I’m currently learning SpringBoot, NodeJs.</h4>
+<h4>- 📘 I've studied Python, Java, C # (Unity), Javascript, Typescript, Angular and Flutter.</h4>
+<h4>- 😄 Pronouns: He/His.</h4>
 
-<!--
-**AndersonBarbosaDeFreitas/AndersonBarbosaDeFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github stats](https://github-readme-stats.vercel.app/api?username=AndersonBarbosaDeFreitas&&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonBarbosaDeFreitas&layout=compact&theme=dark)
 
-Here are some ideas to get you started:
+<h2>How to reach me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.facebook.com/anderson.barbosadefreitas" target="_blank">
+<img src="facebook-square-brands.svg" width="32px" height ="32px"/>
+</a>
+<a href="www.linkedin.com/in/anderson-barbosa-de-freitas" target="_blank">
+<img src="linkedin-brands.svg" width="32px" height ="32px"/>
+</a>
+<a style="color: #D62976" href="https://www.instagram.com/andersonbdef/" target="_blank">
+<img src="instagram-brands.svg" width="32px" height ="32px"/>
+</a>
