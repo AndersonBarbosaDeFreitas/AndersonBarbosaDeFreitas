@@ -1,4 +1,4 @@
-## Hello World! 👋
+<div align="center"><h1>Hello World! 👋</h1></div>
   
 <h4>- 🔭  &nbsp; I am currently working as at Phoebus through the AYTY project.
 <br>- 🌱  &nbsp; I’m currently learning SpringBoot, NodeJs.
@@ -13,8 +13,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonBarbosaDeFreitas&layout=compact&theme=dark&langs_count=10"/>
 </div>
 
-## Languages
-<div style="display: inline_block"><br>
+<div align="center"><h2>Languages</h2></div>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,10 +25,9 @@
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
 
-  
-## How to reach me
+<div align="center"><h2>How to reach me</h2></div>
 
-<div> 
+<div align="center"> 
   <a href="https://www.facebook.com/anderson.barbosadefreitas" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andersonbdef/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/anderson-barbosa-de-freitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
