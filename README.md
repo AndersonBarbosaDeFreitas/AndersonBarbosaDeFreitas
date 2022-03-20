@@ -1,6 +1,6 @@
 <div align="center"><h1>Hello World! 👋</h1></div>
   
-<h4>- 🔭  &nbsp; I am currently working as at Phoebus through the AYTY project.
+<h4>- 🔭  &nbsp; I am currently working at Phoebus as a Backend and Mobile Developer.
 <br>- 🌱  &nbsp; I’m currently learning SpringBoot, NodeJs.
 <br>- 📚  &nbsp; I've studied Python, Java, C # (Unity), Javascript, Typescript, Angular and Flutter.
 <br>- 😄  &nbsp; Pronouns: He/His.</h4>
